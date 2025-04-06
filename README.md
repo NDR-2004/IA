@@ -1,2 +1,3 @@
-# IA
-création d'un modèle de régression linéaire pour prédire le prix des maisons.
+## 🤖 Projets IA
+Vous trouverez ici tous mes projets personnels en lien avec l’intelligence artificielle : traitement d’image, analyse de données, automatisation, et bien plus à venir !
+
